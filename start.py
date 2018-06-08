@@ -10,7 +10,7 @@ def get_start_widget(appbase, jupbase, notebase):
         <th style="text-align:center"></th>
     <tr>
     <td valign="top"><ul>
-    <li><a href="{appbase}/setup_computer.ipynb" target="_blank">Setup Connection to Quanum-Mobile</a>
+    <li><a href="{appbase}/setup_computer.ipynb" target="_blank">Setup Connection to Quantum-Mobile</a>
     </ul></td>
     
     <td valign="top"><ul>
