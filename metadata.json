@@ -1,4 +1,8 @@
 {
     "title": "Quantum Mobile",
-    "description": "Test virtual machine based on QuantumMobile"
+    "description": "Set up connection to compute resource based on QuantumMobile",
+    "authors": "AiiDA Team",
+    "version": "0.1.0",
+    "logo": "static/logo.png",
+    "state": "stable"
 }
